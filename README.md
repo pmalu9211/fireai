@@ -68,7 +68,6 @@ For development with auto-reloading:
 
 The API will be available at [http://localhost:3000](http://localhost:3000).
 
-## [Deployed Website](#) (Replace with your deployed link)
 
 ---
 
