@@ -6,6 +6,9 @@ Here's the setup instructions and API documentation in markdown format, with a p
 ## Clone the Repository
 
 1. Clone the repository and navigate to the project directory.
+   ```bash
+   git clone https://github.com/pmalu9211/fireai
+   ```
 
 ## Install Dependencies
 
@@ -222,5 +225,3 @@ The API will be available at [http://localhost:3000](http://localhost:3000).
 
 **Note:** Replace `<token>` with the actual JWT token received from the login or register endpoint.
 ```
-
-Replace the placeholder link for the deployed website with your actual deployed URL once available.
